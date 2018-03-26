@@ -6,3 +6,6 @@ Code compiling sequence:
 3. marge_2017_2018.py
 4. model_building&comparing.py
 5. model_building&prediction_merkle.py
+
+The current ranking of my team for the competition is No.7
+Website link: https://www.merkleinc.com/bracketlytics
